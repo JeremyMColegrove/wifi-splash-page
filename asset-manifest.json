@@ -1,13 +1,12 @@
 {
   "files": {
-    "main.js": "/wifi-splash-page/static/js/main.3a84779b.js",
+    "main.js": "/wifi-splash-page/static/js/main.222e3b24.js",
     "static/js/787.380d7b3e.chunk.js": "/wifi-splash-page/static/js/787.380d7b3e.chunk.js",
-    "static/media/img.jpeg": "/wifi-splash-page/static/media/img.635d06a8803227314047.jpeg",
     "index.html": "/wifi-splash-page/index.html",
-    "main.3a84779b.js.map": "/wifi-splash-page/static/js/main.3a84779b.js.map",
+    "main.222e3b24.js.map": "/wifi-splash-page/static/js/main.222e3b24.js.map",
     "787.380d7b3e.chunk.js.map": "/wifi-splash-page/static/js/787.380d7b3e.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.3a84779b.js"
+    "static/js/main.222e3b24.js"
   ]
 }
