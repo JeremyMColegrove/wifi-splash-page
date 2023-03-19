@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/wifi-splash-page/static/js/main.68731dd2.js",
+    "static/js/787.380d7b3e.chunk.js": "/wifi-splash-page/static/js/787.380d7b3e.chunk.js",
+    "static/media/img.jpeg": "/wifi-splash-page/static/media/img.635d06a8803227314047.jpeg",
+    "index.html": "/wifi-splash-page/index.html",
+    "main.68731dd2.js.map": "/wifi-splash-page/static/js/main.68731dd2.js.map",
+    "787.380d7b3e.chunk.js.map": "/wifi-splash-page/static/js/787.380d7b3e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.68731dd2.js"
+  ]
+}
